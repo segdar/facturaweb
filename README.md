@@ -1,4 +1,4 @@
-# FacturaWeb (angular 21)
+# FacturaWeb 
 
 frontend del sistema de facturacion que consume el api .net core.
 
