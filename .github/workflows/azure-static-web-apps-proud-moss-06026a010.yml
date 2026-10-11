@@ -30,7 +30,7 @@ jobs:
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
           app_location: "/" # App source code path
           api_location: "https://api-invoices20261011153933-b6fjh4e6b5fha3a0.westus3-01.azurewebsites.net" # Api source code path - optional
-          output_location: "dist/facturaweb" # Built app content directory - optional
+          output_location: "dist/facturaweb/browser" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
