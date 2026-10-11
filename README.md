@@ -25,7 +25,7 @@ frontend del sistema de facturacion que consume el api .net core.
 7. salida: cierra sesion
 
 ## configurar api
-cambiar la url en `src/app/core/tokens/app.tokens.ts` si el api no corre en `http://localhost:5000`.
+cambiar la url en `environment.ts` si el api no corre.
 
 ## ejecutar
 ```bash
